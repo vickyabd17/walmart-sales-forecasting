@@ -66,8 +66,3 @@ A retail chain with multiple stores faces challenges in inventory management due
 This project demonstrates end-to-end data analysis and forecasting using real-world retail data.
 
 ---
-
-## 📬 Contact
-Your Name  
-Email  
-LinkedIn
